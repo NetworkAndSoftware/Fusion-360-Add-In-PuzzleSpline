@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"b7b0222a-5a21-4c98-929e-55f2205bccec",
+	"author":	"Michiel van Wessem",
+	"description":	{
+		"":	"Creates a pair of toothed curves that can be used to split a body and create two pieces that slide and lock together."
+	},
+	"version":	"1.0.0",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
